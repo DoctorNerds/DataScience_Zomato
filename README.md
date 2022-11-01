@@ -15,5 +15,5 @@ Os restaurantes são categorizados entre: Buffet, Caffes (Cafés), Deliverys (En
 
 ## Para rodar o projeto
 
-É necessário ter o dataset "Zomato.csv" que está neste repositório e salvá-lo na raiz do projeto do seu Colaboratory (caso queira utilizar o código exatamente como está no arquivo, porém existem outras formas de abri-lo).
+É necessário ter o dataset "Zomato.csv" que pode ser baixado neste link [Zomato](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants) e salvá-lo na raiz do projeto do seu Colaboratory (caso queira utilizar o código exatamente como está no arquivo, porém existem outras formas de abri-lo).
 Todo o arquivo do Colab está comentado sobre os passos dados e algumas análises feitas sobre este dataset.
